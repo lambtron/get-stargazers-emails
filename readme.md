@@ -7,6 +7,12 @@
 
 Fork or clone this repo.
 
+Install npm dependancies with:
+
+```
+$ npm install
+```
+
 ## Usage
 
 Make sure to add your github access token to `./lib/github.js`. Then,
